@@ -28,9 +28,11 @@ Interactive Slicers & Visuals
 ## 📷 Dashboard Screenshots
 🔹 Superstore Sales Overview
 
-![SUPERSTORE SALES ANALYSIS_page-0002](https://github.com/user-attachments/assets/5cb5721d-5b54-44fb-9ec8-5d5d07afc45f)
+![SUPERSTORE SALES ANALYSIS_page-0001](https://github.com/user-attachments/assets/a5582d0b-230e-4a03-b6da-c77259aecc65)
+
 
 High-level view of sales, profit, orders, shipping days, and performance by segment, region, and category.
+
 🔹 Sales Forecast – 15 Days
 
 ![SUPERSTORE SALES ANALYSIS_page-0002](https://github.com/user-attachments/assets/6467802c-bba6-437b-bf45-cadc966ca7a0)

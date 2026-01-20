@@ -27,10 +27,14 @@ Time-Series Forecasting (Power BI analytics)
 Interactive Slicers & Visuals
 ## 📷 Dashboard Screenshots
 🔹 Superstore Sales Overview
+
 ![SUPERSTORE SALES ANALYSIS_page-0002](https://github.com/user-attachments/assets/5cb5721d-5b54-44fb-9ec8-5d5d07afc45f)
+
 High-level view of sales, profit, orders, shipping days, and performance by segment, region, and category.
 🔹 Sales Forecast – 15 Days
+
 ![SUPERSTORE SALES ANALYSIS_page-0002](https://github.com/user-attachments/assets/6467802c-bba6-437b-bf45-cadc966ca7a0)
+
 Short-term sales forecasting using historical time-series data.
 ## 💡 Key Insights
 
@@ -78,7 +82,9 @@ Use slicers to explore sales, profit, and forecast insights
 ## 👤 Author
 
 Pavan Sai
+
 📧 Email - pavansaikrishna04@gmail.com
-🔗 LinkedIn - 
+
+🔗 LinkedIn - https://www.linkedin.com/in/pavan-sai-28b911344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
